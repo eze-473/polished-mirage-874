@@ -135,4 +135,4 @@ El botón verde en la sección Inicio rápido.
 
 ---
 
-*polished-mirage-874 · Actualizado 2026-10-05 · Compartido bajo licencia MIT*
+*polished-mirage-874 · Actualizado 2026-10-06 · Compartido bajo licencia MIT*
